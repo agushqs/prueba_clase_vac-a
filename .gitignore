@@ -3,7 +3,6 @@
 
 ### Archivos propios ###
 ######
-*.txt 
 imagenes/
 !hola.txt
 
